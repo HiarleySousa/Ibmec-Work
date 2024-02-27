@@ -37,22 +37,33 @@ tornando único e igualitário, o acesso à internet.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
 Servidor
-
+Um servidor, em suma, é um computador com grande capacidade de armazenamento e processamento cujo objetivo é conectar outros 
+computadores através de uma rede. Os servidores processam e executam solicitações feitas por usuário através de softwares,
+bancos de dados, envio e recebimento de informações como e-mails, envio de formulários, hospedagem de websites e outros.
 
 Zero-rating
-
+oferta de acesso móvel a conteúdos e aplicativos previamente determinados pelo provedor ao usuário, sem que isso implique custos 
+adicionais.
 
 Jurimetria
-
+Jurimetria é a aplicação de métodos quantitativos, especialmente a estatística, na área do Direito. Revolucionando a prática 
+jurídica, ela tem sido utilizada em conjunto com softwares para prever riscos, oferecer probabilidades de vitória em litígio e prever
+tendências de comportamento nos tribunais.
 
 Sistema de Arquivos
-
+Um Sistema de Arquivos é um sistema utilizado para armazenar, organizar e acessar dados em um computador de forma efetiva. 
 
 Rede Neural Artificial
+Uma rede neural é um método de inteligência artificial que ensina computadores a processar dados de uma forma inspirada pelo cérebro
+humano. É um tipo de processo de machine learning, chamado aprendizado profundo, que usa nós ou neurônios interconectados em uma 
+estrutura em camadas, semelhante ao cérebro humano. A rede neural cria um sistema adaptativo que os computadores usam para aprender
+com os erros e se aprimorar continuamente. As redes neurais artificiais tentam solucionar problemas complicados, como resumir
+documentos ou reconhecer rostos com grande precisão.
 
 
-
-
-
-
-
+Referêcias:
+https://kenzie.com.br/blog/servidor/
+https://irisbh.com.br/zero-rating-uma-medida-de-excecao/#:~:text=Basicamente%2C%20o%20zero-rating%20consiste%20em%20uma%20oferta%20de,ao%20usu%C3%A1rio%2C%20sem%20que%20isso%20implique%20custos%20adicionais.
+https://www.aurum.com.br/blog/jurimetria/
+https://www.bosontreinamentos.com.br/hardware/o-que-e-um-sistema-de-arquivos-file-system/
+https://aws.amazon.com/pt/what-is/neural-network/
