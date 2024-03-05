@@ -16,9 +16,19 @@ Se um formato é proprietário, o usuário corre o risco de perder acesso aos da
 
 b.1 forneça exemplos de formatos 
 Formatos Abertos:
-•	PDF (Portable Document Format): Um formato amplamente utilizado para documentos que preserva a formatação, independentemente do software usado para visualizá-lo.
-Formatos Proprietários:
 •	DOCX (Microsoft Word Document): O formato padrão do Microsoft Word para documentos. Ele é proprietário, mas amplamente utilizado.
-
+Formatos Proprietários:
+•	PDF (Portable Document Format): Um formato amplamente utilizado para documentos que preserva a formatação, independentemente do software usado para visualizá-lo.
 
 b.2 discuta as implicações relacionadas a dados públicos
+Qualquer pessoa pode acessar, usar, modificar e compartilhar livremente para qualquer finalidade (sujeito a, no máximo, a requisitos que preservem a proveniência e a sua abertura). 
+Isso geralmente é satisfeito pela publicação dos dados em formato aberto e sob uma licença aberta.
+Assim, Dados Abertos são uma metodologia para a publicação de dados do governo em formatos reutilizáveis, visando o aumento da transparência e maior participação política por 
+parte do cidadão, além de gerar diversas aplicações desenvolvidas colaborativamente pela sociedade.
+No caso do Brasil, vários órgãos da Administração Pública já publicam seus dados na web, na forma de relatórios e balanços para que os cidadãos possam acompanhar os resultados
+das ações de governo.
+
+
+Referencias 
+https://www.gov.br/governodigital/pt-br/dados-abertos
+https://campusvirtual.fiocruz.br/portal/guiarea/OpenFormats.html#:~:text=Os%20formatos%20propriet%C3%A1rios%20representam%20a,podem%20ser%20conhecidas%20por%20todos.
