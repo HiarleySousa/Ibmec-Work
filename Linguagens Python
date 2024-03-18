@@ -1,0 +1,63 @@
+ estrutura de repetição em Python
+As estruturas de repetição são recursos das linguagens de programação responsáveis por executar um bloco de código repetidamente através de determinadas condições especificas.
+
+O Python contém dois tipos de estruturas de repetição: for e while.
+codigo
+notas = {
+    'Potuguês': 7, 
+    'Matemática': 9, 
+    'Lógica': 7, 
+    'Algoritmo': 7
+}
+
+for chave, valor in notas.items():
+    print(f"{chave}: {valor}")
+
+resultado
+Potuguês: 7
+Matemática: 9
+Lógica: 7
+Algoritmo: 7
+
+https://pythonacademy.com.br/blog/estruturas-de-repeticao
+
+
+Estruturas de Decisão
+As estruturas de decisão permitem que seu programa tome decisões com base em condições específicas e escolha diferentes caminhos 
+de execução com base nesses critérios.
+
+
+
+# Variável Idade
+idade = 18
+
+# Condição Para Verificar a Idade
+if idade >= 18:
+    print("Você é maior de idade.")
+
+# Resultado 
+Você é maior de idade.
+
+https://medium.com/@rafamachiaveli/estruturas-de-decis%C3%A3o-em-python-ec5e1b8b7a66
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
