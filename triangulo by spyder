@@ -1,0 +1,10 @@
+def triangulos (qtd, sep= ' ');
+    asteristicos = '8'
+    espacos = ' '
+
+for _ in range(qtd):
+    print ('{0:<{n}}' format(asteristicos, espacos, sep, n=qnt))
+    asteriscos += '*'
+    espacos += ' '
+
+triangulos(4)
